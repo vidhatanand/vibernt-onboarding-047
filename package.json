@@ -1,0 +1,8 @@
+{
+  "name": "vibernt-onboarding-047",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Timed onboarding test for Vibernt CI drop-in runners",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
